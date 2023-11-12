@@ -1,0 +1,25 @@
+a {
+    width: 70px;
+    font-weight: 700;
+    border-radius: 30px;
+    padding: 8px 200px;
+    background-color: #42ffd3;
+    color: rgb(5, 105, 255);
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+
+a:hover {
+    background-color: transparent;
+    border: 2px solid rgb(34, 69, 144);
+    color: rgb(12, 65, 179);
+}
+
+h1 {
+    text-align: center;
+    border: 2px solid rgb(124, 166, 249);
+    background-color: #42ffd3;
+    border-radius: 20px;
+    padding: 5px;
+}
